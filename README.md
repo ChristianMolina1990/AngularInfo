@@ -15,3 +15,9 @@ npm i -g @angular/cli
 # Para ver la version de Angular
 
 ng version
+
+
+
+# canActivate
+
+protegen rutas
