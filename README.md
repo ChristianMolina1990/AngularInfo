@@ -17,7 +17,7 @@ npm i -g @angular/cli
 ng version
 
 
-## canActivate
+# Guard
 # canActivate
 
 protegen rutas
